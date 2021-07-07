@@ -1,5 +1,5 @@
 # ASL09766 - PROGRAMAÇÃO CONCORRENTE
--ATIVIDADE 01 
+-ATIVIDADE 01: 
 Resolva os exercícos da atividade em anexo e ao final anexo o três códigos fontes que resolvam os exercícios (compactar os arquivos em formato zip ou rar utilizando a ferramenta de preferência).
 
 -ATIVIDADE 02:
